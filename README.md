@@ -14,4 +14,6 @@
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagosilva2324&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagosilva2324&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagosilva2324&hide_progress=true)<br/>
+
+Estou cursando Programação de jogos ddigitais na ETEC Ermelinda Giannini Teixeira, atualmente 3ºano do ensino médio técnico. Possuo capacidades nessas areas porém minha area de atuação é desenvolvedor web.
